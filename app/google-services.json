@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027175429236",
+    "firebase_url": "https://mobilenetwork-fc90a.firebaseio.com",
+    "project_id": "mobilenetwork-fc90a",
+    "storage_bucket": "mobilenetwork-fc90a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027175429236:android:fd4ffd3f658d8d68",
+        "android_client_info": {
+          "package_name": "com.tutu.hp.howapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027175429236-ivdc4sk64s6b8m6v4j5jnof3oo212fed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutu.hp.howapp",
+            "certificate_hash": "602672123a11072a592aaca1be62341bbc3c2a94"
+          }
+        },
+        {
+          "client_id": "1027175429236-n36j2i484h01ebaou6n90pe409gn8pv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGC6S658JKOQrjbZOYtDA84p7p39axVDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027175429236-n36j2i484h01ebaou6n90pe409gn8pv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
